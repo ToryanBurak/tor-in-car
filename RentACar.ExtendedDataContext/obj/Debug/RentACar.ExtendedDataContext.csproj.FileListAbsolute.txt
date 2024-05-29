@@ -10,3 +10,15 @@ C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.ExtendedDataContext\obj\De
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.csproj.CopyComplete
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.dll
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\RentACar.ExtendedDataContext.dll.config
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\RentACar.ExtendedDataContext.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\RentACar.ExtendedDataContext.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\EntityFramework.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\EntityFramework.xml
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.csproj.AssemblyReference.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.csproj.CoreCompileInputs.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.csproj.CopyComplete
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.ExtendedDataContext\obj\Debug\RentACar.ExtendedDataContext.pdb

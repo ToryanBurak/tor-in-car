@@ -13,3 +13,18 @@ C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Repository\bin\Debug\Entit
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Repository\obj\Debug\RentACar.Repository.csproj.CopyComplete
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Repository\obj\Debug\RentACar.Repository.dll
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Repository\obj\Debug\RentACar.Repository.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.Repository.dll.config
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.Repository.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.Repository.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\EntityFramework.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.ExtendedDataContext.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.ExtendedDataContext.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\RentACar.ExtendedDataContext.dll.config
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\EntityFramework.xml
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\obj\Debug\RentACar.Repository.csproj.AssemblyReference.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\obj\Debug\RentACar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\obj\Debug\RentACar.Repository.csproj.CopyComplete
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\obj\Debug\RentACar.Repository.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Repository\obj\Debug\RentACar.Repository.pdb

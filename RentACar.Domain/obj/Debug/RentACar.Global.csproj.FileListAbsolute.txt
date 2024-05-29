@@ -4,3 +4,9 @@ C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Global.csproj.CoreCompileInputs.cache
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Domain.dll
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Domain.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\bin\Debug\RentACar.Domain.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\bin\Debug\RentACar.Domain.pdb
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\obj\Debug\RentACar.Global.csproj.AssemblyReference.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\obj\Debug\RentACar.Global.csproj.CoreCompileInputs.cache
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\obj\Debug\RentACar.Domain.dll
+C:\Users\burak\Source\Repos\tor-in-car\RentACar.Domain\obj\Debug\RentACar.Domain.pdb
