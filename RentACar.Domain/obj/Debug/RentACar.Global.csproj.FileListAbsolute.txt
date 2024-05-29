@@ -1,0 +1,6 @@
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\bin\Debug\RentACar.Domain.dll
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\bin\Debug\RentACar.Domain.pdb
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Global.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Global.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Domain.dll
+C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.Domain\obj\Debug\RentACar.Domain.pdb
