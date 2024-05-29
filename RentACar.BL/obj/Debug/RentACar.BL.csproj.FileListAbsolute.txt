@@ -26,3 +26,31 @@ C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.BL\bin\Debug\AutoMapper.pd
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.BL\bin\Debug\AutoMapper.xml
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.BL\bin\Debug\AutoMapper.Net4.pdb
 C:\Users\burak\Desktop\Rent A Car\Rent A Car\RentACar.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\AutoMapper.Net4.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.BL.dll.config
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.BL.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.BL.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\AutoMapper.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\EntityFramework.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.DATA.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.Domain.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.ExtendedDataContext.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.Repository.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.DATA.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.DATA.dll.config
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.Domain.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.ExtendedDataContext.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.ExtendedDataContext.dll.config
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.Repository.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\RentACar.Repository.dll.config
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\AutoMapper.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\AutoMapper.xml
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\EntityFramework.xml
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\obj\Debug\RentACar.BL.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\obj\Debug\RentACar.BL.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\obj\Debug\RentACar.BL.csproj.CopyComplete
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\obj\Debug\RentACar.BL.dll
+C:\Users\burak\source\repos\tor-in-car\RentACar.BL\obj\Debug\RentACar.BL.pdb
