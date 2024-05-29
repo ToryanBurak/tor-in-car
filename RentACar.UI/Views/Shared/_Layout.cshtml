@@ -1,0 +1,173 @@
+﻿@{
+    //Layout = "~/Views/Shared/_NewLayout.cshtml";
+    Layout = "";
+}
+
+<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="~/assets/plugins/fontawesome/css/fontawesome.min.css">
+<link rel="stylesheet" href="~/assets/plugins/fontawesome/css/all.min.css">
+
+<link rel="stylesheet" href="~/assets/plugins/select2/css/select2.min.css">
+
+<link rel="stylesheet" href="~/assets/css/bootstrap-datetimepicker.min.css">
+
+<link rel="stylesheet" href="~/assets/plugins/aos/aos.css">
+
+<link rel="stylesheet" href="~/assets/css/feather.css">
+
+<link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+
+<link rel="stylesheet" href="~/assets/css/style.css">
+
+<header class="header">
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg header-nav">
+            <div class="navbar-header">
+                <a id="mobile_btn" href="javascript:void(0);">
+                    <span class="bar-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                </a>
+                <a href="@Url.Action("Index","Home")" class="navbar-brand logo">
+                    <img src="~/assets/img/logo.svg" class="img-fluid" alt="Logo">
+                </a>
+                <a href="@Url.Action("Index","Home")" class="navbar-brand logo-small">
+                    <img src="~/assets/img/logo-small.png" class="img-fluid" alt="Logo">
+                </a>
+            </div>
+            <div class="main-menu-wrapper">
+                <div class="menu-header">
+                    <a href="@Url.Action("Index","Home")" class="menu-logo">
+                        <img src="~/assets/img/logo.svg" class="img-fluid" alt="Logo">
+                    </a>
+                    <a id="menu_close" class="menu-close" href="javascript:void(0);">
+                        <i class="fas fa-times"></i>
+                    </a>
+                </div>
+                <ul class="main-nav">
+                    <li class="active"><a href="index.html">Anasayfa</a></li>
+                    <li><a href="@Url.Action("Index","Home")">Hakkımızda</a></li>
+                    <li><a href="@Url.Action("Index","Home")">İlanlar</a></li>
+                    <li><a href="@Url.Action("Index","Home")">İletişim</a></li>
+                    <li class="has-submenu">
+                        <a href="@Url.Action("Index","Home")">Listings <i class="fas fa-chevron-down"></i></a>
+                        <ul class="submenu">
+                            <li><a href="listing-grid.html">Listing Grid</a></li>
+                            <li><a href="listing-list.html">Listing List</a></li>
+                            <li><a href="listing-details.html">Listing Details</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-submenu">
+                        <a href="#">User <i class="fas fa-chevron-down"></i></a>
+                        <ul class="submenu">
+                            <li><a href="user-dashboard.html">Dashboard</a></li>
+                            <li><a href="user-bookings.html">My Bookings</a></li>
+                            <li><a href="user-reviews.html">Reviews</a></li>
+                            <li><a href="user-wishlist.html">Wishlist</a></li>
+                            <li><a href="user-messages.html">Messages</a></li>
+                            <li><a href="user-wallet.html">My Wallet</a></li>
+                            <li><a href="user-payment.html">Payments</a></li>
+                            <li><a href="user-settings.html">Settings</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-submenu">
+                        <a href="#">Pages <i class="fas fa-chevron-down"></i></a>
+                        <ul class="submenu">
+                            <li><a href="about-us.html">About Us</a></li>
+                            <li class="has-submenu">
+                                <a href="javascript:void(0);">Authentication</a>
+                                <ul class="submenu">
+                                    <li><a href="@Url.Action("SignUp","User")">Signup</a></li>
+                                    <li><a href="login.html">Signin</a></li>
+                                    <li><a href="forgot-password.html">Forgot Password</a></li>
+                                    <li><a href="reset-password.html">Reset Password</a></li>
+                                </ul>
+                            </li>
+                            <li class="has-submenu">
+                                <a href="javascript:void(0);">Booking</a>
+                                <ul class="submenu">
+                                    <li><a href="booking-payment.html">Booking Checkout</a></li>
+                                    <li><a href="booking.html">Booking</a></li>
+                                    <li><a href="invoice-details.html">Invoice Details</a></li>
+                                </ul>
+                            </li>
+                            <li class="has-submenu">
+                                <a href="javascript:void(0);">Error Page</a>
+                                <ul class="submenu">
+                                    <li><a href="error-404.html">404 Error</a></li>
+                                    <li><a href="error-500.html">500 Error</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="faq.html">FAQ</a></li>
+                            <li><a href="gallery.html">Gallery</a></li>
+                            <li><a href="our-team.html">Our Team</a></li>
+                            <li><a href="testimonial.html">Testimonials</a></li>
+                            <li><a href="terms-condition.html">Terms & Conditions</a></li>
+                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="maintenance.html">Maintenance</a></li>
+                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-submenu">
+                        <a href="#">Blog <i class="fas fa-chevron-down"></i></a>
+                        <ul class="submenu">
+                            <li><a href="blog-list.html">Blog List</a></li>
+                            <li><a href="blog-grid.html">Blog Grid</a></li>
+                            <li><a href="blog-details.html">Blog Details</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="contact-us.html">Contact</a></li>
+                    <li class="login-link">
+                        <a href="@Url.Action("SignUp","User")">Sign Up</a>
+                    </li>
+                    <li class="login-link">
+                        <a href="login.html">Sign In</a>
+                    </li>
+                </ul>
+            </div>
+            <ul class="nav header-navbar-rht">
+                <li class="nav-item">
+                    <a class="nav-link header-login" href="login.html">
+                        <span>
+                            <i class="fa-regular fa-user"></i>
+                        </span>Sign In
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link header-reg" href="@Url.Action("SignUp","User")">
+                        <span>
+                            <i class="fa-solid fa-lock"></i>
+                        </span>Sign Up
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+@RenderBody()
+<script data-cfasync="false" src="~/assets/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="~/assets/js/jquery-3.7.1.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/js/bootstrap.bundle.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/js/jquery.waypoints.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+<script src="~/assets/js/jquery.counterup.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/plugins/select2/js/select2.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/plugins/aos/aos.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/js/backToTop.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/plugins/moment/moment.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+<script src="~/assets/js/bootstrap-datetimepicker.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/js/owl.carousel.min.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+
+<script src="~/assets/js/script.js" type="b9a3d4979c37c310c81b635b-text/javascript"></script>
+<script src="~/assets/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+        data-cf-settings="b9a3d4979c37c310c81b635b-|49" defer=""></script>
